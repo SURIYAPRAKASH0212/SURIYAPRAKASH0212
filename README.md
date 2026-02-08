@@ -53,6 +53,10 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SURIYAPRAKASH0212&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+  <br/>
+
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/SURIYA0212?theme=radical&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/SURIYA0212/)
+
 </div>
 
 <br/>
