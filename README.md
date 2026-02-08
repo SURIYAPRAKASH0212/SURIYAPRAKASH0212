@@ -20,7 +20,7 @@
 - 💬 Ask me about **Java, Python, React, and System Design**
 - ⚡ **Soft Skills:** Leadership, Problem Solving, Quick Learning
 - 📫 How to reach me: **[suriya22714@gmail.com](mailto:suriya22714@gmail.com)**
-- ⚡ Fun fact: **I love solving LeetCode problems!**
+- ⚡ Fun fact: **Vibe Coding!**
 
 <br/>
 
