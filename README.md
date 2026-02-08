@@ -19,8 +19,8 @@
 - 🌱 I’m currently learning **Spring Boot & Microservices**
 - 💬 Ask me about **Java, Python, React, and System Design**
 - ⚡ **Soft Skills:** Leadership, Problem Solving, Quick Learning
-- 📫 How to reach me: **suriya22714@gmail.com**
-- ⚡ Fun fact: **Vibe Coding!**
+- 📫 How to reach me: **[Add your email here]**
+- ⚡ Fun fact: **I love solving LeetCode problems!**
 
 <br/>
 
@@ -63,11 +63,18 @@
 
 <br/>
 
+### � Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/SURIYAPRAKASH0212/SURIYAPRAKASH0212/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<br/>
+
 ### 📈 Contribution Graph
 
 <div align="center">
-  <!-- NOTE: This image will appear AFTER the GitHub Action runs successfully -->
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SURIYAPRAKASH0212&bg_color=141321&color=fe428e&line=fe428e&point=fe428e&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br/>
