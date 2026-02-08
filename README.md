@@ -24,13 +24,14 @@
 
 <br/>
 
-### 🔥 Coding Streak
+### 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SURIYAPRAKASH0212&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+- **Full Stack Developer Intern** at **TechnoHacks Edutech** 💼
+  - Successfully completed internship focusing on web development and problem solving.
 
 <br/>
+
+
 
 ### 🛠️ Languages and Tools
 
