@@ -19,8 +19,8 @@
 - 🌱 I’m currently learning **Spring Boot & Microservices**
 - 💬 Ask me about **Java, Python, React, and System Design**
 - ⚡ **Soft Skills:** Leadership, Problem Solving, Quick Learning
-- 📫 How to reach me: **[Add your email here]**
-- ⚡ Fun fact: **I love solving LeetCode problems!**
+- 📫 How to reach me: **suriya22714@gmail.com**
+- ⚡ Fun fact: **Vibe Coding**
 
 <br/>
 
