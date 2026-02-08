@@ -66,7 +66,7 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Graph (Run Action to Generate)" />
 </div>
 
 <br/>
