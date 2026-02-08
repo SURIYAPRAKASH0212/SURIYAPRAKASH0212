@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Spring Boot & Microservices**
 - 💬 Ask me about **Java, Python, React, and System Design**
 - ⚡ **Soft Skills:** Leadership, Problem Solving, Quick Learning
-- 📫 How to reach me: **[Add your email here]**
+- 📫 How to reach me: **[suriya22714@gmail.com](mailto:suriya22714@gmail.com)**
 - ⚡ Fun fact: **I love solving LeetCode problems!**
 
 <br/>
@@ -61,23 +61,22 @@
 
 </div>
 
-<br/>
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph (Run Action to Generate)" />
-</div>
 
 <br/>
 
 ### 🔗 Connect with Me
 
 <div align="center"> 
-  <a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://www.linkedin.com/in/suriyaprakash-s-9302a6352/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="https://www.instagram.com/suriya_prakash2006/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/suriya022714" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=suriya22714@gmail.com&tf=cm" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
