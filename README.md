@@ -44,7 +44,7 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 Leetcode Stats
 
 <div align="center">
 
