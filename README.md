@@ -24,12 +24,10 @@
 
 <br/>
 
-### 🏆 Achievements
+### 🔥 Coding Streak
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SURIYAPRAKASH0212&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SURIYAPRAKASH0212&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
