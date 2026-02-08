@@ -92,3 +92,27 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SURIYAPRAKASH0212&style=flat-square&color=blueviolet" alt="Profile Views" />
 </div>
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # Runs daily
+  workflow_dispatch: # Allows manual run
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated 3d stats"
+          git push
