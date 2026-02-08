@@ -1,13 +1,13 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Suriyaprakash%20👋&descAlignY=51&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Suriyaprakash%20👋&descAlignY=51&descAlign=62" alt="Header" />
 </div>
 
-<h3 align="center">Passionate Developer | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center">Passionate Java Developer | Tech Enthusiast | Problem Solver</h3>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+Expert;Open+Source+Contributor;Constant+Learner)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Java+Developer;Full+Stack+Engineer;Open+Source+Contributor;Constant+Learner)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,18 +15,29 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Advanced Web Applications**
-- 🌱 I’m currently learning **AI & Machine Learning**
-- 💬 Ask me about **Python, JavaScript, and Modern Web Tech**
+- 🔭 I’m currently working on **Enterprise Java Applications**
+- 🌱 I’m currently learning **Spring Boot & Microservices**
+- 💬 Ask me about **Java, Data Structures, and System Design**
 - 📫 How to reach me: **[Add your email here]**
 - ⚡ Fun fact: **I love solving LeetCode problems!**
+
+<br/>
+
+### 🏆 Achievements
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SURIYAPRAKASH0212&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
+</div>
 
 <br/>
 
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,java,c,cpp,mysql,git,github,vscode,figma&perline=6" alt="Tech Stack" />
+  <!-- Removed MySQL (Dolphin), Added Spring, Postgres, Docker -->
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,js,html,css,git,github,vscode,docker,idea&perline=6" alt="Tech Stack" />
 </div>
 
 <br/>
@@ -35,9 +46,9 @@
 
 <div align="center">
 
-  [![Suriyaprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SURIYAPRAKASH0212&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Suriyaprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SURIYAPRAKASH0212&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SURIYAPRAKASH0212&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SURIYAPRAKASH0212&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -46,7 +57,7 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SURIYAPRAKASH0212&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SURIYAPRAKASH0212&bg_color=ffffff&color=0072ff&line=0072ff&point=0072ff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br/>
