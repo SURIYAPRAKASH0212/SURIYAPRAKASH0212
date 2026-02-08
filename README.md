@@ -19,8 +19,16 @@
 - 🌱 I’m currently learning **Spring Boot & Microservices**
 - 💬 Ask me about **Java, Python, React, and System Design**
 - ⚡ **Soft Skills:** Leadership, Problem Solving, Quick Learning
-- 📫 How to reach me: **suriya22714@gmail.com**
-- ⚡ Fun fact: **Vibe Coding**
+- 📫 How to reach me: **[Add your email here]**
+- ⚡ Fun fact: **I love solving LeetCode problems!**
+
+<br/>
+
+<div align="center">
+  <a href="https://suriyas-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-FF0080?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="40" />
+  </a>
+</div>
 
 <br/>
 
@@ -44,7 +52,7 @@
 
 <br/>
 
-### 📊 Leetcode Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
