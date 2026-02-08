@@ -63,18 +63,10 @@
 
 <br/>
 
-### � Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/SURIYAPRAKASH0212/SURIYAPRAKASH0212/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
-<br/>
-
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SURIYAPRAKASH0212&bg_color=141321&color=fe428e&line=fe428e&point=fe428e&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 </div>
 
 <br/>
