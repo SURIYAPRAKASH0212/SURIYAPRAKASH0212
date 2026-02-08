@@ -66,7 +66,12 @@
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Graph (Run Action to Generate)" />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Graph (Go to Actions Tab -> Run Workflow)" />
+</div>
+
+<!-- Fallback 2D Graph if 3D is generating or failed -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SURIYAPRAKASH0212&bg_color=141321&color=fe428e&line=fe428e&point=fe428e&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br/>
