@@ -1,0 +1,5 @@
+.box{
+    width: 50vw;
+    height: 70vh;
+    background-image: repeating-linear-gradient(red 10px,blue 10px,red 20px, blue 20px);
+}
