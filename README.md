@@ -56,10 +56,10 @@
 ### 🤖 AI and Libraries
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="48" alt="Numpy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="48" alt="Pandas" />
-  <img src="https://matplotlib.org/stable/_static/logo2.svg" height="48" alt="Matplotlib" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48" alt="Seaborn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" width="48" alt="Numpy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" width="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" width="48" alt="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48" width="48" alt="Seaborn" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48" alt="Scikit-Learn" />
 </div>
 
