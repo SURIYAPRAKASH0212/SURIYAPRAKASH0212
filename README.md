@@ -44,7 +44,7 @@
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,flask,django,mysql,mongodb,git,github,vscode&perline=8" alt="Core Technologies" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,react,nodejs,flask,django,mysql,mongodb,git,github,vscode&perline=8" alt="Core Technologies" />
   
   <br/><br/>
   
