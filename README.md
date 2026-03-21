@@ -56,11 +56,11 @@
 ### 🤖 AI and Libraries
 
 <div align="center">
-  <img src="https://img.shields.io/badge/--013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
-  <img src="https://img.shields.io/badge/--150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/--11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/--4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/--F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="48" alt="Numpy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="48" alt="Pandas" />
+  <img src="https://matplotlib.org/stable/_static/logo2.svg" height="48" alt="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48" alt="Seaborn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48" alt="Scikit-Learn" />
 </div>
 
 <br/>
