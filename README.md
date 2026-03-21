@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=300&section=header&text=Hello%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20am%20Suriyaprakash%20👋&descAlignY=51&descAlign=62" alt="Header" />
 </div>
 
-<h3 align="center">Passionate Java Developer | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center">Passionate Python Developer | AI/ML Enthusiast | Problem Solver</h3>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72C5B&center=true&vCenter=true&width=435&lines=Java+Developer;React+Enthusiast;Python+Coder;Problem+Solver;Quick+Learner)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72C5B&center=true&vCenter=true&width=435&lines=Python+Developer;AI+Enthusiast;Full+Stack+Developer;Problem+Solver;Quick+Learner)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,12 +15,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Full Stack Development**
-- 🌱 I’m currently learning **Spring Boot & Microservices**
-- 💬 Ask me about **Java, Python, React, and System Design**
+- 🔭 I’m currently working on **AI & ML, Deep Learning, Agentic AI, Gen AI, Prompt Engineering, Feature Engineering, and Python Development**
+- 🌱 I’m currently learning **Advanced AI/ML frameworks and tools**
+- 💬 Ask me about **Python, Data Science, AI/ML, and Web Technologies**
 - ⚡ **Soft Skills:** Leadership, Problem Solving, Quick Learning
 - 📫 How to reach me: **[suriya22714@gmail.com](mailto:suriya22714@gmail.com)**
-- ⚡ Fun fact: **Vibe Coding!**
+- ⚡ Fun fact: **I love solving LeetCode problems!**
 
 <br/>
 
@@ -44,15 +44,24 @@
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,c,git,github,vscode,mysql&perline=6" alt="Tech Stack" />
-  <br/>
-  <!-- Additional Tools like Canva if supported or manually added below -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,nodejs,flask,django,mysql,mongodb,git,github,vscode&perline=8" alt="Core Technologies" />
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  
+  <br/><br/>
+  
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </div>
 
 <br/>
 
-### 📊 Leetcode Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -61,6 +70,13 @@
 
 </div>
 
+<br/>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph (Run Action to Generate)" />
+</div>
 
 <br/>
 
