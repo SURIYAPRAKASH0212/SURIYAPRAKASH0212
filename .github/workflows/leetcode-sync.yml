@@ -1,0 +1,20 @@
+name: Sync LeetCode Solutions
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 8 * * *" # Runs daily at 8:00 AM UTC (adjust as needed)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Sync Solutions
+        uses: joshcai/leetcode-sync@v1.7
+        with:
+          github-token: ${{ github.token }}
+          leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
+          leetcode-session: ${{ secrets.LEETCODE_SESSION }}
+          destination-folder: leetcode-solutions # Places solutions in a subfolder
+          verbose: true
