@@ -2,7 +2,7 @@
   fill: #2cbb5d !important;
 }
 #medium-solved-type {
-  fill: #dad1bb !important;
+  fill: #ffb800 !important;
 }
 #hard-solved-type {
   fill: #ef4743 !important;
@@ -12,5 +12,5 @@
 #hard-solved-count,
 #total-solved-text,
 #ranking {
-  fill: #fcfcfc !important;
+  fill: #e0e7bd !important;
 }
