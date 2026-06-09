@@ -65,13 +65,18 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 📊 GitHub 3D Contribution Graph
 
 <div align="center">
+  <img src="./profile-3d-contrib/profile-green.svg" alt="GitHub 3D Contribution Graph" />
+</div>
 
+<br/>
 
+### 🏆 LeetCode Stats
+
+<div align="center">
   [![LeetCode Stats](https://leetcard.jacoblin.cool/SURIYA0212?theme=radical&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/SURIYA0212/)
-
 </div>
 
 <br/>
