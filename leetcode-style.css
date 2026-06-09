@@ -7,3 +7,10 @@
 #hard-solved-type {
   fill: #ef4743 !important;
 }
+#easy-solved-count,
+#medium-solved-count,
+#hard-solved-count,
+#total-solved-text,
+#ranking {
+  fill: #ffb800 !important;
+}
