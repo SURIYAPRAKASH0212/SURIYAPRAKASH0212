@@ -76,7 +76,9 @@
 ### 🏆 LeetCode Stats
 
 <div align="center">
- [![LeetCode Stats](https://leetcard.jacoblin.cool/SURIYA0212?theme=blood&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/SURIYA0212/)
+  <a href="https://leetcode.com/u/SURIYA0212/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/SURIYA0212?theme=blood&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </div>
 
 <br/>
