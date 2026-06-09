@@ -68,7 +68,7 @@
 ### 📊 GitHub 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green.svg" alt="GitHub 3D Contribution Graph" />
+  <img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=SURIYAPRAKASH0212&theme=github&stats=true" alt="GitHub 3D Contribution Graph" />
 </div>
 
 <br/>
