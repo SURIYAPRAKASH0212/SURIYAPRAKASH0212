@@ -77,7 +77,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/SURIYA0212/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/SURIYA0212?colors=000000,1a1a1a,ffffff,ff0000,ff0000,2cbb5d,ff0000,ff0000&font=Fira%20Code&ext=heatmap&sheets=https://raw.githubusercontent.com/SURIYAPRAKASH0212/SURIYAPRAKASH0212/main/leetcode-style.css" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/SURIYA0212?colors=000000,1a1a1a,ffffff,ff0000,ff0000,2cbb5d,ff0000,ff0000&font=Fira%20Code&ext=heatmap&sheets=https://raw.githubusercontent.com/SURIYAPRAKASH0212/SURIYAPRAKASH0212/dfaa7561d71bbb2b4756b2b59035b9a8dabfff06/leetcode-style.css&v=dfaa756" alt="LeetCode Stats" />
   </a>
 </div>
 
