@@ -76,7 +76,7 @@
 ### 🏆 LeetCode Stats
 
 <div align="center">
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/SURIYA0212?theme=radical&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/SURIYA0212/)
+  [![LeetCode Stats](https://leetcard.jacoblin.cool/SURIYA0212?theme=radical&font=Fira%20Code&ext=activity)](https://leetcode.com/u/SURIYA0212/)
 </div>
 
 <br/>
