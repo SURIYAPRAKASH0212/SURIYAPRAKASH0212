@@ -77,7 +77,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/u/SURIYA0212/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/SURIYA0212?theme=blood&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/SURIYA0212?colors=0d0000,2b0000,ff3333,cccccc,ff3333,5cb85c,f0ad4e,d9534f&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </div>
 
